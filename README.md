@@ -9,6 +9,8 @@
   - clearer differences between variants
   - lower, more realistic CTR (~3–5%)
 
+
+![Prompt Iterations](data_prompt_iteration.png)
 ---
 
 ## Takeaway
@@ -16,7 +18,6 @@
 - Without constraints → generic copy + inflated CTR  
 - Structure alone → not enough  
 - Constraints → changed both output quality and CTR estimates  
-
 
 
 ---
